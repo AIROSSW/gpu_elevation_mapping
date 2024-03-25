@@ -1,0 +1,13 @@
+###### Requirements without Version Specifiers ######`
+numpy==1.22.4
+scipy==1.7
+ruamel.yaml
+opencv-python
+simple-parsing
+scikit-image==0.19
+matplotlib
+catkin-tools
+# cupy
+
+###### Requirements with Version Specifiers ######`
+shapely==1.7.1
